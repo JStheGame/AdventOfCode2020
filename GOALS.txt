@@ -1,0 +1,13 @@
+1. Explore programming concepts
+    - algorithms
+    - data structures
+    - patterns / practices
+
+2. Use functional JavaScript
+    - ES6
+    - avoid loops or if's
+    - everything is const
+    - no side effects
+
+3. Learn from you! :D
+    - questions, comments, concerns?

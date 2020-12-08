@@ -1,0 +1,11 @@
+1. MAKE IT WORK!
+    - understand what the problem is asking
+    - develop a naive solution
+
+2. MAKE IT EFFICIENT!
+    - implement more suitable algos and data structures
+    - big O notation
+
+3. MAKE IT BEAUTIFUL!
+    - clean up the code
+    - make sure it's all functional
